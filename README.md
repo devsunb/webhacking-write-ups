@@ -1,6 +1,6 @@
-# webhacking.kr Write Up
+# webhacking.kr Write-ups
 
-Write Up for [webhacking.kr](http://webhacking.kr/)
+Write-ups for [webhacking.kr](http://webhacking.kr/)
 
 Visual Studio Code를 이용하여 작성
 
